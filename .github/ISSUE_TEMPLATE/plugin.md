@@ -14,7 +14,6 @@ Please fill out the following template.
 -->
 
 ## Plugin Request
-
 <!--
 Propose a human-readable name for the plugin as well as its package name.
 -->
@@ -28,9 +27,13 @@ List the platforms for which this plugin should work.
 -->
 
 
+### Existing Solutions
+<!--
+List any existing Capacitor or Cordova plugins. If you've used any of them, be sure to include your thoughts.
+-->
+
 
 ### Description
-
 <!--
 Describe the plugin and its features.
 -->
